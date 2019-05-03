@@ -62,7 +62,11 @@
     <section class="especialidades">
         <h2 class="title">Especialidades</h2>
         <div class="center">
-        
+            <div class="box-especialidade">
+                <h3>ícone 1</h3>
+                <h3>css3</h3>
+                <p></p>
+            </div><!-- box-especialidade -->
         </div><!-- center -->
     </section> <!-- especialidades -->
 
