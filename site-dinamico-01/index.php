@@ -83,11 +83,38 @@
     <section class="extras">
         <div class="center">
             <div class="w50">
-                
+                <h2 class="title">Depoimentos</h2>
+                <div class="depoimentos-single">
+                    <p class="depoimento-descricao">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into elec</p>
+                    <p class="nome-autor">Lorem ipsum</p>
+                </div><!--depoimentos-single-->
+                <div class="depoimentos-single">
+                    <p class="depoimento-descricao">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into elec</p>
+                    <p class="nome-autor">Lorem ipsum</p>
+                </div><!--depoimentos-single-->
+                <div class="depoimentos-single">
+                    <p class="depoimento-descricao">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into elec</p>
+                    <p class="nome-autor">Lorem ipsum</p>
+                </div><!--depoimentos-single-->
             </div><!--w50-->
-            <h2 class="title"></h2>
+            <div class="w50">
+                <h2 class="title">Serviços</h2>
+                <div class="servicos">
+                    <ul>
+                        <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</li>
+                        <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</li>
+                        <li>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the</li>
+                    </ul>
+                </div><!--servicos-->
+            </div><!--w50-->
         </div><!--center-->
     </section><!-- extras -->
+
+    <footer>
+        <div class="center">
+            <p>Todos os direitos reservados.</p>
+        </div><!--center-->
+    </footer>    
 
 </body>
 </html>
