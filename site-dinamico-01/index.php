@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Our project just needs Font Awesome Solid + Brands -->
+    <link href="estilo/css/fontawesome.css" rel="stylesheet">
+    <link href="estilo/css/brands.css" rel="stylesheet">
+    <link href="estilo/css/solid.css" rel="stylesheet">
     <link rel="stylesheet" href="estilo/style.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
     
