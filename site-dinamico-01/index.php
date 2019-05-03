@@ -65,10 +65,29 @@
             <div class="box-especialidade">
                 <h3>ícone 1</h3>
                 <h3>css3</h3>
-                <p></p>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
+            </div><!-- box-especialidade -->
+            <div class="box-especialidade">
+                <h3>ícone 2</h3>
+                <h3>HTML5</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
+            </div><!-- box-especialidade -->
+            <div class="box-especialidade">
+                <h3>ícone 3</h3>
+                <h3>Javascript</h3>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's</p>
             </div><!-- box-especialidade -->
         </div><!-- center -->
     </section> <!-- especialidades -->
+
+    <section class="extras">
+        <div class="center">
+            <div class="w50">
+                
+            </div><!--w50-->
+            <h2 class="title"></h2>
+        </div><!--center-->
+    </section><!-- extras -->
 
 </body>
 </html>
